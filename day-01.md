@@ -1,2 +1,2 @@
 # Day 1
-- Checked Python and Git. Created an SSH key. Cloned the daily-log repo.
+- Learned print(), variables, and data types in Python.
